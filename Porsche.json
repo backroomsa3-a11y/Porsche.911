@@ -1,0 +1,895 @@
+{
+  "id": "porsche 911 love",
+  "filename": "porsche 911 love.json",
+  "name": "porsche 911 (992)",
+  "description": "twin turbo",
+  "version": "992.1",
+  "authors": [
+    {
+      "name": "Noctra",
+      "id": "1387455182526484582"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#131516"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#16171C"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1A1C1E"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#16171C"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#131516"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#131516"
+    ],
+    "HOME_BACKGROUND": [
+      "#000000"
+    ],
+    "PANEL_BG": [
+      "#131516"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#131516"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#16171C"
+    ],
+    "BG_BACKDROP": [
+      "#000000D9"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#C1121F"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "hsla(0,0%,100%,0.035)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "hsla(0,0%,100%,0.045)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "hsla(0,0%,100%,0.065)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "hsla(0,0%,100%,0.085)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "hsla(355,73%,42%,0.14)"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "hsla(355,73%,42%,0.12)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "hsla(355,73%,42%,0.18)"
+    ],
+    "MENTION_BACKGROUND": [
+      "hsla(355,73%,42%,0.12)"
+    ],
+    "MENTION_FOREGROUND": [
+      "#E6E8EA"
+    ],
+    "HEADER_PRIMARY": [
+      "#E6E8EA"
+    ],
+    "HEADER_SECONDARY": [
+      "#D1D5DB"
+    ],
+    "TEXT_PRIMARY": [
+      "#E6E8EA"
+    ],
+    "TEXT_NORMAL": [
+      "#E6E8EA"
+    ],
+    "TEXT_SECONDARY": [
+      "#C8CDD2"
+    ],
+    "TEXT_MUTED": [
+      "#8C9196"
+    ],
+    "TEXT_LINK": [
+      "#F2F4F4"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#5A6066"
+    ],
+    "CHANNEL_ICON": [
+      "#A6A9AA"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#A6A9AA"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#F2F4F4"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5A6066"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#E6E8EA"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#A6A9AA"
+    ],
+    "MEMBER_LIST_BACKGROUND": [
+      "#000000"
+    ],
+    "MEMBER_LIST_HOVER": [
+      "#131516"
+    ],
+    "MEMBER_LIST_SELECTED": [
+      "#1A1C1E"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#FFCC00"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#E6B800"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BORDER": [
+      "#FFD84D"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#111111"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#131516"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#16171C"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#3C3F41"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#E6E8EA"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED": [
+      "#1A1C1E"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#C1121F"
+    ],
+    "STATUS_DANGER": [
+      "#C1121F"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#C1121F"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_POSITIVE": [
+      "#8BF000"
+    ],
+    "STATUS_WARNING": [
+      "#FFCC00"
+    ],
+    "STATUS_BRAND": [
+      "#A6A9AA"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#3C3F41"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#A6A9AA"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#131516"
+    ],
+    "BORDER_FAINT": [
+      "#E3E2DE1A"
+    ],
+    "BORDER_SUBTLE": [
+      "#E3E2DE2A"
+    ],
+    "BORDER_STRONG": [
+      "#E3E2DE40"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#131516"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#1A1C1E"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#131516"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#16171C"
+    ],
+    "EMBED_BACKGROUND": [
+      "#16171C"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#131516D9"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#131516D9"
+    ],
+    "KEYBOARD": [
+      "#131516"
+    ],
+    "REPLY_BAR_BACKGROUND": [
+      "#131516"
+    ],
+    "REPLY_BAR_TEXT": [
+      "#E6E8EA"
+    ],
+    "REPLY_QUOTE_LINE": [
+      "#FFCC00"
+    ],
+    "MENTION_LINE": [
+      "#C1121F"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#3C3F41"
+    ],
+    "THREAD_CHANNEL_SPINE_GRADIENT": [
+      "#A6A9AA"
+    ],
+    "THREAD_CHANNEL_NAME": [
+      "#E6E8EA"
+    ],
+    "THREAD_MESSAGE_PREVIEW": [
+      "#C8CDD2"
+    ],
+    "LINK_DEFAULT": [
+      "#F2F4F4"
+    ],
+    "LINK_HOVER": [
+      "#FFCC00"
+    ],
+    "LINK_VISITED": [
+      "#A6A9AA"
+    ],
+    "TEXT_BRAND": [
+      "#F2F4F4"
+    ],
+    "TEXT_POSITIVE": [
+      "#8BF000"
+    ],
+    "TEXT_WARNING": [
+      "#FFCC00"
+    ],
+    "TEXT_DANGER": [
+      "#C1121F"
+    ],
+    "UNREAD_BAR_BACKGROUND": [
+      "#C1121F"
+    ],
+    "UNREAD_BAR_TEXT": [
+      "#FFFFFF"
+    ],
+    "NEW_MESSAGES_BAR": [
+      "#C1121F"
+    ],
+    "NEW_MESSAGES_BAR_TEXT": [
+      "#FFFFFF"
+    ],
+    "SEARCH_BAR_BACKGROUND": [
+      "#131516D9"
+    ],
+    "SEARCH_BAR_BACKGROUND_NON_ACTIVE": [
+      "#131516"
+    ],
+    "SEARCH_BAR_BACKGROUND_ACTIVE": [
+      "#1A1C1E"
+    ],
+    "SEARCH_BAR_TEXT": [
+      "#E6E8EA"
+    ],
+    "SEARCH_BAR_PLACEHOLDER": [
+      "#8C9196"
+    ],
+    "SEARCH_HIGHLIGHT": [
+      "#FFCC00"
+    ],
+    "SEARCH_HIGHLIGHT_TEXT": [
+      "#111111"
+    ],
+    "SEARCH_RESULT_BACKGROUND": [
+      "#16171C"
+    ],
+    "SEARCH_RESULT_HOVER": [
+      "#1A1C1E"
+    ],
+    "SEARCH_RESULT_SELECTED": [
+      "#24282B"
+    ],
+    "PROFILE_GRADIENT_PRIMARY": [
+      "#000000"
+    ],
+    "PROFILE_GRADIENT_SECONDARY": [
+      "#131516"
+    ],
+    "PROFILE_BODY_BACKGROUND": [
+      "#131516"
+    ],
+    "PROFILE_MESSAGE_INPUT_BACKGROUND": [
+      "#16171CD9"
+    ],
+    "PROFILE_NOTE_BACKGROUND": [
+      "#16171C"
+    ],
+    "PROFILE_ROLE_PILL_BACKGROUND": [
+      "#1A1C1E"
+    ],
+    "PROFILE_ROLE_PILL_BORDER": [
+      "#E3E2DE"
+    ],
+    "PROFILE_ROLE_PILL_TEXT": [
+      "#E6E8EA"
+    ],
+    "USER_PROFILE_MUTUAL_FRIENDS_BACKGROUND": [
+      "#131516"
+    ],
+    "VOICE_PANEL_BACKGROUND": [
+      "#000000"
+    ],
+    "VOICE_CONNECTED": [
+      "#FFCC00"
+    ],
+    "VOICE_SPEAKING": [
+      "#FFCC00"
+    ],
+    "VOICE_RING": [
+      "#FFCC00"
+    ],
+    "VOICE_VIDEO_BACKGROUND": [
+      "#000000"
+    ],
+    "VOICE_VIDEO_OVERLAY": [
+      "#00000099"
+    ],
+    "CALL_BACKGROUND": [
+      "#000000"
+    ],
+    "CALL_CONTROL_BACKGROUND": [
+      "#131516"
+    ],
+    "CALL_CONTROL_ACTIVE": [
+      "#FFCC00"
+    ],
+    "CALL_CONTROL_HOVER": [
+      "#A6A9AA"
+    ],
+    "EMOJI_PICKER_BACKGROUND": [
+      "#131516"
+    ],
+    "EMOJI_PICKER_CATEGORY": [
+      "#A6A9AA"
+    ],
+    "EMOJI_PICKER_HOVER": [
+      "#1A1C1E"
+    ],
+    "REACTION_BACKGROUND": [
+      "#16171C"
+    ],
+    "REACTION_HOVER": [
+      "#1A1C1E"
+    ],
+    "REACTION_ACTIVE": [
+      "#FFCC00"
+    ],
+    "REACTION_TEXT": [
+      "#E6E8EA"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#C1121F"
+    ],
+    "FORUM_POST_MEDIA_PLACEHOLDER": [
+      "#16171C"
+    ],
+    "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER": [
+      "#131516"
+    ],
+    "NITRO_BACKGROUND": [
+      "#131516"
+    ],
+    "BOOST_GRADIENT_START": [
+      "#A6A9AA"
+    ],
+    "BOOST_GRADIENT_END": [
+      "#F2F4F4"
+    ],
+    "BOOST_TEXT": [
+      "#E6E8EA"
+    ],
+    "MODAL_BACKGROUND": [
+      "#131516E6"
+    ],
+    "MODAL_HEADER": [
+      "#F2F4F4"
+    ],
+    "MODAL_BORDER": [
+      "#E3E2DE"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#000000"
+    ],
+    "CONTEXT_MENU_BACKGROUND": [
+      "#131516E6"
+    ],
+    "CONTEXT_MENU_HOVER": [
+      "#1A1C1E"
+    ],
+    "CONTEXT_MENU_ACTIVE": [
+      "#24282B"
+    ],
+    "TOOLTIP_BACKGROUND": [
+      "#6B5A18"
+    ],
+    "TOOLTIP_TEXT": [
+      "#000000"
+    ],
+    "SWITCH_TRACK": [
+      "#3C3F41"
+    ],
+    "SWITCH_TRACK_CHECKED": [
+      "#FFCC00"
+    ],
+    "SWITCH_KNOB": [
+      "#F2F4F4"
+    ],
+    "SLIDER_TRACK": [
+      "#3C3F41"
+    ],
+    "SLIDER_FILL": [
+      "#FFCC00"
+    ],
+    "CHECKBOX_BACKGROUND": [
+      "#3C3F41"
+    ],
+    "CHECKBOX_CHECK": [
+      "#000000"
+    ],
+    "RADIO_BACKGROUND": [
+      "#3C3F41"
+    ],
+    "RADIO_SELECTED": [
+      "#FFCC00"
+    ],
+    "PROGRESS_BAR_BACKGROUND": [
+      "#16171C"
+    ],
+    "PROGRESS_BAR_FILL": [
+      "#FFCC00"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#000000CC",
+    "PRIMARY_100": "#F2F4F4",
+    "PRIMARY_200": "#ECEFF1",
+    "PRIMARY_300": "#E6E8EA",
+    "PRIMARY_330": "#DCE0E3",
+    "PRIMARY_360": "#D1D5DB",
+    "PRIMARY_400": "#C8CDD2",
+    "PRIMARY_460": "#A6A9AA",
+    "PRIMARY_500": "#3C3F41",
+    "PRIMARY_530": "#2E3136",
+    "PRIMARY_600": "#1A1C1E",
+    "PRIMARY_630": "#16171C",
+    "PRIMARY_645": "#131516",
+    "PRIMARY_660": "#131516",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_730": "#000000",
+    "PRIMARY_800": "#000000",
+    "WHITE_500": "#FFFFFF",
+    "WHITE_630": "#F2F4F4",
+    "BLUE_260": "#A6A9AA",
+    "BLUE_300": "#A6A9AA",
+    "BLUE_330": "#A6A9AA",
+    "BLUE_345": "#A6A9AA",
+    "BLUE_360": "#A6A9AA",
+    "BLUE_400": "#A6A9AA",
+    "BLUE_430": "#A6A9AA",
+    "BLUE_460": "#A6A9AA",
+    "BLUE_500": "#A6A9AA",
+    "BLUE_530": "#A6A9AA",
+    "BLUE_560": "#A6A9AA",
+    "BLUE_600": "#A6A9AA",
+    "BLUE_630": "#A6A9AA",
+    "BLUE_660": "#A6A9AA",
+    "BLUE_700": "#A6A9AA",
+    "BRAND_200": "#FFCC00",
+    "BRAND_260": "#FFCC00",
+    "BRAND_300": "#FFCC00",
+    "BRAND_330": "#FFCC00",
+    "BRAND_345": "#FFCC00",
+    "BRAND_360": "#FFCC00",
+    "BRAND_400": "#FFCC00",
+    "BRAND_430": "#FFD84D",
+    "BRAND_460": "#FFE680",
+    "BRAND_500": "#FFCC00",
+    "BRAND_530": "#E6B800",
+    "BRAND_560": "#CCA300",
+    "BRAND_600": "#B38F00",
+    "BRAND_630": "#997A00",
+    "BRAND_660": "#806600",
+    "BRAND_700": "#665200",
+    "BRAND_730": "#4D3D00",
+    "RED_260": "#C1121F",
+    "RED_300": "#C1121F",
+    "RED_330": "#C1121F",
+    "RED_345": "#C1121F",
+    "RED_360": "#C1121F",
+    "RED_400": "#D62839",
+    "RED_430": "#E5383B",
+    "RED_460": "#C1121F",
+    "RED_500": "#A50F1F",
+    "RED_530": "#8D0D1A",
+    "RED_560": "#730A15",
+    "RED_600": "#590810",
+    "RED_630": "#42060C",
+    "RED_660": "#2B0408",
+    "RED_700": "#190204",
+    "GREEN_260": "#8BF000",
+    "GREEN_300": "#8BF000",
+    "GREEN_330": "#8BF000",
+    "GREEN_345": "#8BF000",
+    "GREEN_360": "#8BF000",
+    "GREEN_400": "#8BF000",
+    "GREEN_430": "#8BF000",
+    "GREEN_460": "#8BF000",
+    "GREEN_500": "#8BF000",
+    "GREEN_530": "#70C700",
+    "GREEN_560": "#5AA000",
+    "GREEN_600": "#487F00",
+    "GREEN_630": "#365F00",
+    "GREEN_660": "#254000",
+    "GREEN_700": "#152400",
+    "YELLOW_260": "#FFCC00",
+    "YELLOW_300": "#FFCC00",
+    "YELLOW_330": "#FFCC00",
+    "YELLOW_345": "#FFCC00",
+    "YELLOW_360": "#FFCC00",
+    "YELLOW_400": "#FFD84D",
+    "YELLOW_430": "#FFE680",
+    "YELLOW_460": "#FFF0A6",
+    "YELLOW_500": "#FFCC00",
+    "YELLOW_530": "#E6B800",
+    "YELLOW_560": "#CCA300",
+    "YELLOW_600": "#B38F00",
+    "YELLOW_630": "#997A00",
+    "YELLOW_660": "#806600",
+    "YELLOW_700": "#665200",
+    "ORANGE_260": "#FFCC00",
+    "ORANGE_300": "#FFCC00",
+    "ORANGE_330": "#FFCC00",
+    "ORANGE_345": "#FFCC00",
+    "ORANGE_360": "#FFCC00",
+    "ORANGE_400": "#FFCC00",
+    "ORANGE_430": "#FFD84D",
+    "ORANGE_460": "#FFE680",
+    "ORANGE_500": "#FFCC00",
+    "ORANGE_530": "#E6B800",
+    "ORANGE_560": "#CCA300",
+    "ORANGE_600": "#B38F00",
+    "ORANGE_630": "#997A00",
+    "ORANGE_660": "#806600",
+    "ORANGE_700": "#665200",
+    "ROLE_DEFAULT": "#D1D5DB",
+    "GUILD_BOOSTING_PINK": "#C1121F",
+    "GUILD_BOOSTING_PURPLE": "#A6A9AA",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#A6A9AA"
+  },
+  "plus": {
+    "version": "992.1",
+    "iconPack": "",
+    "customOverlays": false,
+    "replyLineColor": "#FFCC00",
+    "mentionLineColor": "#C1121F",
+    "threadSpineColor": "#3C3F41",
+    "glassmorphism": true,
+    "oledOptimized": true,
+    "motorsportMode": true,
+    "themeVariant": "Porsche 911 Carrera Black Edition"
+  },
+  "background": {
+    "url": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/hzwxbb.gif",
+    "alpha": 0.85,
+    "blur": 35,
+    "overlay": "#131516CC",
+    "parallax": false,
+    "animated": true
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "github.com",
+    "ggsans-Bold": "github.com",
+    "ggsans-BoldItalic": "github.com",
+    "ggsans-ExtraBold": "github.com",
+    "ggsans-ExtraBoldItalic": "github.com",
+    "ggsans-Medium": "github.com",
+    "ggsans-MediumItalic": "github.com",
+    "ggsans-Normal": "github.com",
+    "ggsans-NormalItalic": "github.com",
+    "ggsans-Semibold": "github.com",
+    "ggsans-SemiboldItalic": "github.com",
+    "NotoSans-Bold": "github.com",
+    "NotoSans-ExtraBold": "github.com",
+    "NotoSans-Medium": "github.com",
+    "NotoSans-Normal": "github.com",
+    "NotoSans-NormalItalic": "github.com",
+    "NotoSans-Semibold": "github.com",
+    "SourceCodePro-Semibold": "github.com"
+  },
+  "extensions": {
+    "themeVariant": "992 Carrera Black",
+    "supportsOLED": true,
+    "supportsGlassmorphism": true,
+    "supportsAnimatedBackground": true,
+    "replyLineColor": "#FFCC00",
+    "mentionLineColor": "#C1121F",
+    "threadSpineColor": "#3C3F41",
+    "pingColor": "#C1121F",
+    "mentionHighlight": "#C1121F22",
+    "mentionBorder": "#C1121F",
+    "unreadIndicator": "#FFCC00",
+    "newMessagesBar": "#FFCC00",
+    "newMessagesBarText": "#111111",
+    "reactionAccent": "#FFCC00",
+    "reactionHover": "#FFD84D",
+    "emojiPickerAccent": "#A6A9AA",
+    "profileAccent": "#F2F4F4",
+    "voiceConnected": "#FFCC00",
+    "streamingAccent": "#8BF000",
+    "callAccent": "#A6A9AA",
+    "linkColor": "#F2F4F4",
+    "selectionColor": "#3C3F41",
+    "hoverColor": "#1A1C1E",
+    "pressedColor": "#2E3136",
+    "focusRing": "#FFCC00",
+    "switchEnabled": "#FFCC00",
+    "sliderActive": "#FFCC00",
+    "checkboxActive": "#FFCC00",
+    "radioActive": "#FFCC00",
+    "badgeColor": "#C1121F",
+    "nitroAccent": "#A6A9AA",
+    "boostAccent": "#F2F4F4",
+    "modalOverlay": "#000000CC",
+    "glassOpacity": 0.85,
+    "glassBlur": 35,
+    "borderRadius": 18,
+    "telemetryMode": true,
+    "trackMode": true,
+    "audio": {
+      "enabled": true,
+      "startup": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/worry.mp3",
+      "notification": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/worry.mp3",
+      "voiceJoin": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/worry.mp3"
+    }
+  },
+  "metadata": {
+    "themeName": "Porsche 911 (992) Black Edition",
+    "shortName": "P911",
+    "author": "Noctra",
+    "version": "992.1",
+    "description": "Engineered to 992 Specifications for Rain/Revenge • Twin-Turbo Flat-Six UI Architecture optimized for ultra-low power consumption.",
+    "releaseChannel": "Stable",
+    "designLanguage": "Porsche 911 (992)",
+    "vehicle": {
+      "manufacturer": "Porsche",
+      "model": "911",
+      "generation": "992",
+      "variant": "Black Edition"
+    },
+    "palette": {
+      "amoledBlack": "#000000",
+      "pianoBlack": "#131516",
+      "jetBlack": "#16171C",
+      "basaltBlack": "#1A1C1E",
+      "volcanoGrey": "#2E3136",
+      "agateGrey": "#3C3F41",
+      "gtSilver": "#A6A9AA",
+      "iceGrey": "#D1D5DB",
+      "instrumentSilver": "#E6E8EA",
+      "chalk": "#E3E2DE",
+      "pccbYellow": "#FFCC00",
+      "guardsRed": "#C1121F",
+      "acidGreen": "#8BF000"
+    },
+    "background": {
+      "type": "animated",
+      "style": "Rainy Midnight Run",
+      "glassmorphism": true,
+      "oledOptimized": true
+    },
+    "cockpit": {
+      "instrumentCluster": "Five Dial Layout",
+      "replyStyle": "Quad LED DRL",
+      "mentionStyle": "Continuous Tail Light",
+      "threadStyle": "Monocoque Strut",
+      "profileStyle": "Leather Dashboard",
+      "forumStyle": "Showroom Cards",
+      "emojiStyle": "Paddle Shift Navigation",
+      "voiceStyle": "Rev Counter Rings"
+    },
+    "telemetry": {
+      "mode": true,
+      "dashboard": "PCM",
+      "trackModeAvailable": true,
+      "oledOptimized": true,
+      "glassEngine": "Windshield Refraction"
+    },
+    "credits": {
+      "concept": "Noctra",
+      "platform": [
+        "Rain",
+        "Revenge"
+      ]
+    }
+  },
+  "compatibility": {
+    "rain": true,
+    "revenge": true,
+    "vendetta": true,
+    "aliucord": true,
+    "themeVersion": "992.1",
+    "minimumSpec": 2,
+    "supports": {
+      "oled": true,
+      "glassmorphism": true,
+      "animatedBackground": true,
+      "highContrastMode": true,
+      "trackMode": true,
+      "telemetryMode": true,
+      "replyHighlights": true,
+      "mentionHighlights": true,
+      "threadSpines": true,
+      "voiceUI": true,
+      "forumUI": true,
+      "emojiUI": true,
+      "profileCards": true,
+      "searchUI": true,
+      "pcmLayout": true
+    },
+    "features": [
+      "AMOLED",
+      "Porsche992Cockpit",
+      "PianoBlackPanels",
+      "JetBlackGlass",
+      "BasaltInterior",
+      "VolcanoGreyStructure",
+      "AgateGreyDashboard",
+      "GTSilverTypography",
+      "InstrumentSilverIcons",
+      "PCCBYellowAccents",
+      "GuardsRedAlerts",
+      "AcidGreenStreaming",
+      "AnimatedBackground",
+      "Glassmorphism",
+      "WindshieldRefraction",
+      "RainNightDrive",
+      "OLEDOptimized",
+      "ReplyHighlights",
+      "MentionHighlights",
+      "ThreadSpines",
+      "VoiceExperience",
+      "ProfileDashboard",
+      "ForumShowroom",
+      "TelemetryMode",
+      "TrackMode",
+      "AntiGlareText",
+      "SinglePixelBorders",
+      "CarbonInspiredDesign"
+    ],
+    "fallbacks": {
+      "primary": "#FFCC00",
+      "secondary": "#A6A9AA",
+      "background": "#000000",
+      "surface": "#131516",
+      "surfaceAlt": "#16171C",
+      "hover": "#1A1C1E",
+      "selected": "#2E3136",
+      "text": "#E6E8EA",
+      "textSecondary": "#D1D5DB",
+      "textMuted": "#A6A9AA",
+      "link": "#F2F4F4",
+      "mention": "#C1121F22",
+      "reply": "#FFCC00",
+      "thread": "#3C3F41",
+      "unread": "#FFCC00",
+      "success": "#8BF000",
+      "warning": "#FFCC00",
+      "danger": "#C1121F"
+    },
+    "audio": {
+      "experimental": true,
+      "enabled": true,
+      "startup": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/worry.mp3",
+      "notification": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/worry.mp3",
+      "voiceJoin": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/worry.mp3",
+      "fallbackBehavior": "ignore_if_unsupported"
+    }
+  },
+  "developer": {
+    "codename": "Night Drive",
+    "project": "Porsche 911 (992)",
+    "chassis": "992.1",
+    "engine": "Twin-Turbo Flat-Six UI Architecture",
+    "edition": "Black Edition",
+    "status": "Stable",
+    "engineeredFor": [
+      "Rain",
+      "Revenge",
+      "Vendetta",
+      "Aliucord"
+    ]
+  },
+  "variants": {
+    "nightDrive": true,
+    "trackMode": true,
+    "oledEdition": true,
+    "future": {
+      "gt3rs": false,
+      "turboS": false,
+      "gt2rs": false,
+      "dakAR": false,
+      "sportClassic": false
+    }
+  },
+  "quality": {
+    "antiGlareTypography": true,
+    "singlePixelBorders": true,
+    "ghostInactiveChannels": true,
+    "dynamicMemberList": true,
+    "glassmorphism": true,
+    "oledOptimized": true,
+    "highContrast": true,
+    "premiumLayering": true,
+    "instrumentClusterDesign": true,
+    "pcmInspiredLayout": true
+  },
+  "performance": {
+    "gpuFriendly": true,
+    "optimizedBlur": true,
+    "optimizedGifPlayback": true,
+    "lowPowerMode": true,
+    "recommendedBackgroundFPS": 30
+  },
+  "experimental": {
+    "audioHooks": true,
+    "telemetryOverlay": true,
+    "futureClientExtensions": true,
+    "ignoreUnsupportedKeys": true
+  },
+  "release": {
+    "generation": "1",
+    "codename": "Night Drive",
+    "build": "992.1-Release",
+    "license": "Personal Use",
+    "notes": [
+      "Engineered to 992 Specifications",
+      "Designed for AMOLED displays",
+      "Inspired by Porsche PCM and Motorsport interiors",
+      "Glassmorphism optimized",
+      "Supports animated backgrounds",
+      "Experimental audio hooks included"
+    ]
+  }
+}
