@@ -1,0 +1,612 @@
+{
+"metadata": {
+"themeName": "Dark Forest",
+"author": "Noctra",
+"version": "1.0",
+"description": "A misty forest inspired Discord theme featuring subtle glassmorphism, deep woodland tones and premium readability."
+},
+"background": {
+"url": "https://cdn.jsdelivr.net/gh/backroomsa3-a11y/Porsche.911@main/98krf8.gif",
+"alpha": 0.70,
+"blur": 2,
+"overlay": "#10221CB3",
+"animated": true,
+"parallax": false
+},
+"plus": {
+"version": "1.0",
+"glassmorphism": true,
+"oledOptimized": false,
+"borderRadius": 20,
+"glassOpacity": 0.70,
+"glassBlur": 2,
+"replyLineColor": "#82A98B",
+"mentionLineColor": "#E3E5D8",
+"threadSpineColor": "#5D786C",
+"themeVariant": "Dark Forest",
+"iconPack": ""
+},
+"semanticColors": {
+"CHAT_BACKGROUND": [
+"#10221C"
+],
+"BACKGROUND_PRIMARY": [
+"#10221C"
+],
+"BACKGROUND_SECONDARY": [
+"#28443A"
+],
+"BACKGROUND_SECONDARY_ALT": [
+"#355245"
+],
+"BACKGROUND_TERTIARY": [
+"#426457"
+],
+"BACKGROUND_FLOATING": [
+"#355245"
+],
+"BACKGROUND_NESTED_FLOATING": [
+"#28443A"
+],
+"BACKGROUND_MOBILE_PRIMARY": [
+"#10221C"
+],
+"BACKGROUND_MOBILE_SECONDARY": [
+"#28443A"
+],
+"HOME_BACKGROUND": [
+"#10221C"
+],
+"PANEL_BG": [
+"#28443A"
+],
+"BG_BASE_PRIMARY": [
+"#10221C"
+],
+"BG_BASE_SECONDARY": [
+"#28443A"
+],
+"BG_BASE_TERTIARY": [
+"#355245"
+],
+"BG_BACKDROP": [
+"#10221CD9"
+],
+"BACKGROUND_ACCENT": [
+"#5F8A68"
+],
+"BACKGROUND_MESSAGE_HOVER": [
+"hsla(140,18%,90%,0.035)"
+],
+"BACKGROUND_MODIFIER_HOVER": [
+"hsla(140,20%,92%,0.045)"
+],
+"BACKGROUND_MODIFIER_ACTIVE": [
+"hsla(140,20%,92%,0.065)"
+],
+"BACKGROUND_MODIFIER_SELECTED": [
+"hsla(140,20%,92%,0.090)"
+],
+"BACKGROUND_MODIFIER_ACCENT": [
+"hsla(132,30%,42%,0.15)"
+],
+"BACKGROUND_MENTIONED": [
+"#E3E5D81C"
+],
+"BACKGROUND_MENTIONED_HOVER": [
+"#E3E5D830"
+],
+"MENTION_BACKGROUND": [
+"#E3E5D820"
+],
+"MENTION_FOREGROUND": [
+"#F4F7F2"
+],
+"HEADER_PRIMARY": [
+"#F4F7F2"
+],
+"HEADER_SECONDARY": [
+"#D7DED5"
+],
+"TEXT_PRIMARY": [
+"#F4F7F2"
+],
+"TEXT_NORMAL": [
+"#F4F7F2"
+],
+"TEXT_SECONDARY": [
+"#D7DED5"
+],
+"TEXT_MUTED": [
+"#A7B4AA"
+],
+"TEXT_LINK": [
+"#8EB89A"
+],
+"TEXT_BRAND": [
+"#7AA883"
+],
+"TEXT_POSITIVE": [
+"#73C97A"
+],
+"TEXT_WARNING": [
+"#C6B36C"
+],
+"TEXT_DANGER": [
+"#A94B4B"
+],
+"CHANNELS_DEFAULT": [
+"#9CADA0"
+],
+"CHANNEL_ICON": [
+"#B8C4BA"
+],
+"INTERACTIVE_NORMAL": [
+"#B8C4BA"
+],
+"INTERACTIVE_HOVER": [
+"#DDE6DC"
+],
+"INTERACTIVE_ACTIVE": [
+"#FFFFFF"
+],
+"INTERACTIVE_MUTED": [
+"#738276"
+],
+"REDESIGN_CHANNEL_NAME_TEXT": [
+"#F4F7F2"
+],
+"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+"#A8B4AA"
+],
+"MEMBER_LIST_BACKGROUND": [
+"#10221C"
+],
+"MEMBER_LIST_HOVER": [
+"#28443A"
+],
+"MEMBER_LIST_SELECTED": [
+"#355245"
+],
+"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+"#5F8A68"
+],
+"REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+"#4F7557"
+],
+"REDESIGN_BUTTON_PRIMARY_BORDER": [
+"#8EB89A"
+],
+"REDESIGN_BUTTON_PRIMARY_TEXT": [
+"#F4F7F2"
+],
+"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+"#355245"
+],
+"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+"#426457"
+],
+"REDESIGN_BUTTON_SECONDARY_BORDER": [
+"#648374"
+],
+"REDESIGN_BUTTON_SECONDARY_TEXT": [
+"#F4F7F2"
+],
+"REDESIGN_BUTTON_SECONDARY_PRESSED": [
+"#4A6F60"
+],
+"REDESIGN_BUTTON_DANGER_BACKGROUND": [
+"#8A3E3E"
+],
+"STATUS_BRAND": [
+"#5F8A68"
+],
+"STATUS_POSITIVE": [
+"#73C97A"
+],
+"STATUS_WARNING": [
+"#C6B36C"
+],
+"STATUS_DANGER": [
+"#8A3E3E"
+],
+"STATUS_DANGER_BACKGROUND": [
+"#8A3E3E"
+],
+"STATUS_DANGER_TEXT": [
+"#F4F7F2"
+],
+"CARD_PRIMARY_BG": [
+"#28443A"
+],
+"CARD_SECONDARY_BG": [
+"#355245"
+],
+"EMBED_BACKGROUND": [
+"#355245"
+],
+"CHANNELTEXTAREA_BACKGROUND": [
+"#28443AE6"
+],
+"REDESIGN_CHAT_INPUT_BACKGROUND": [
+"#28443AE6"
+],
+"KEYBOARD": [
+"#28443A"
+],
+"REPLY_BAR_BACKGROUND": [
+"#28443A"
+],
+"REPLY_BAR_TEXT": [
+"#F4F7F2"
+],
+"REPLY_QUOTE_LINE": [
+"#82A98B"
+],
+"MENTION_LINE": [
+"#E3E5D8"
+],
+"THREAD_CHANNEL_SPINE": [
+"#5D786C"
+],
+"THREAD_CHANNEL_SPINE_GRADIENT": [
+"#82A98B"
+],
+"THREAD_CHANNEL_NAME": [
+"#F4F7F2"
+],
+"THREAD_MESSAGE_PREVIEW": [
+"#D7DED5"
+],
+"LINK_DEFAULT": [
+"#9BC7A4"
+],
+"LINK_HOVER": [
+"#CFE7D3"
+],
+"LINK_VISITED": [
+"#7E9D86"
+],
+"SEARCH_BAR_BACKGROUND": [
+"#28443AE6"
+],
+"SEARCH_BAR_BACKGROUND_NON_ACTIVE": [
+"#355245"
+],
+"SEARCH_BAR_BACKGROUND_ACTIVE": [
+"#426457"
+],
+"SEARCH_BAR_TEXT": [
+"#F4F7F2"
+],
+"SEARCH_BAR_PLACEHOLDER": [
+"#A7B4AA"
+],
+"SEARCH_HIGHLIGHT": [
+"#82A98B"
+],
+"SEARCH_HIGHLIGHT_TEXT": [
+"#10221C"
+],
+"SEARCH_RESULT_BACKGROUND": [
+"#355245"
+],
+"SEARCH_RESULT_HOVER": [
+"#426457"
+],
+"SEARCH_RESULT_SELECTED": [
+"#507364"
+],
+"PROFILE_GRADIENT_PRIMARY": [
+"#355245"
+],
+"PROFILE_GRADIENT_SECONDARY": [
+"#507364"
+],
+"PROFILE_BODY_BACKGROUND": [
+"#28443A"
+],
+"PROFILE_MESSAGE_INPUT_BACKGROUND": [
+"#355245D9"
+],
+"PROFILE_NOTE_BACKGROUND": [
+"#355245"
+],
+"PROFILE_ROLE_PILL_BACKGROUND": [
+"#426457"
+],
+"PROFILE_ROLE_PILL_BORDER": [
+"#7C9885"
+],
+"PROFILE_ROLE_PILL_TEXT": [
+"#F4F7F2"
+],
+"USER_PROFILE_MUTUAL_FRIENDS_BACKGROUND": [
+"#28443A"
+],
+"REACTION_BACKGROUND": [
+"#355245"
+],
+"REACTION_HOVER": [
+"#426457"
+],
+"REACTION_ACTIVE": [
+"#82A98B"
+],
+"REACTION_TEXT": [
+"#F4F7F2"
+],
+"EMOJI_PICKER_BACKGROUND": [
+"#28443A"
+],
+"EMOJI_PICKER_CATEGORY": [
+"#A7B4AA"
+],
+"EMOJI_PICKER_HOVER": [
+"#426457"
+],
+"VOICE_PANEL_BACKGROUND": [
+"#28443A"
+],
+"VOICE_CONNECTED": [
+"#82A98B"
+],
+"VOICE_SPEAKING": [
+"#73C97A"
+],
+"VOICE_RING": [
+"#82A98B"
+],
+"VOICE_VIDEO_BACKGROUND": [
+"#10221C"
+],
+"VOICE_VIDEO_OVERLAY": [
+"#10221CB3"
+],
+"CALL_BACKGROUND": [
+"#10221C"
+],
+"CALL_CONTROL_BACKGROUND": [
+"#355245"
+],
+"CALL_CONTROL_ACTIVE": [
+"#82A98B"
+],
+"CALL_CONTROL_HOVER": [
+"#648374"
+],
+"FORUM_POST_TAG_BACKGROUND": [
+"#5F8A68"
+],
+"FORUM_POST_MEDIA_PLACEHOLDER": [
+"#355245"
+],
+"MODAL_BACKGROUND": [
+"#28443AF2"
+],
+"MODAL_HEADER": [
+"#F4F7F2"
+],
+"MODAL_BORDER": [
+"#6F8B79"
+],
+"MODAL_FOOTER_BACKGROUND": [
+"#355245"
+],
+"CONTEXT_MENU_BACKGROUND": [
+"#28443AF2"
+],
+"CONTEXT_MENU_HOVER": [
+"#426457"
+],
+"CONTEXT_MENU_ACTIVE": [
+"#507364"
+],
+"SWITCH_TRACK": [
+"#5B7064"
+],
+"SWITCH_TRACK_CHECKED": [
+"#5F8A68"
+],
+"SWITCH_KNOB": [
+"#F4F7F2"
+],
+"SLIDER_TRACK": [
+"#4C6258"
+],
+"SLIDER_FILL": [
+"#82A98B"
+],
+"CHECKBOX_BACKGROUND": [
+"#4C6258"
+],
+"CHECKBOX_CHECK": [
+"#F4F7F2"
+],
+"RADIO_BACKGROUND": [
+"#4C6258"
+],
+"RADIO_SELECTED": [
+"#82A98B"
+],
+"PROGRESS_BAR_BACKGROUND": [
+"#355245"
+],
+"PROGRESS_BAR_FILL": [
+"#82A98B"
+],
+"UNREAD_BAR_BACKGROUND": [
+"#5F8A68"
+],
+"UNREAD_BAR_TEXT": [
+"#F4F7F2"
+],
+"NEW_MESSAGES_BAR": [
+"#5F8A68"
+],
+"NEW_MESSAGES_BAR_TEXT": [
+"#10221C"
+],
+"FOCUS_PRIMARY": [
+"#82A98B"
+],
+"FOCUS_SECONDARY": [
+"#E3E5D8"
+],
+"SCROLLBAR_THIN_THUMB": [
+"#587264"
+],
+"SCROLLBAR_THIN_TRACK": [
+"#10221C"
+],
+"SCROLLBAR_AUTO_THUMB": [
+"#6D8A79"
+],
+"SCROLLBAR_AUTO_TRACK": [
+"#28443A"
+],
+"BORDER_FAINT": [
+"#FFFFFF10"
+],
+"BORDER_SUBTLE": [
+"#FFFFFF18"
+],
+"BORDER_STRONG": [
+"#FFFFFF28"
+]
+},
+"rawColors": {
+"PRIMARY_100": "#F4F7F2",
+"PRIMARY_130": "#EDF2EC",
+"PRIMARY_160": "#E3E5D8",
+"PRIMARY_200": "#D7DED5",
+"PRIMARY_230": "#C9D2CB",
+"PRIMARY_260": "#B9C4BC",
+"PRIMARY_300": "#A7B4AA",
+"PRIMARY_330": "#96A499",
+"PRIMARY_345": "#869589",
+"PRIMARY_360": "#7B8A7F",
+"PRIMARY_400": "#6B7B70",
+"PRIMARY_430": "#5D6C61",
+"PRIMARY_460": "#4F5E54",
+"PRIMARY_500": "#426457",
+"PRIMARY_530": "#355245",
+"PRIMARY_560": "#2F493E",
+"PRIMARY_600": "#28443A",
+"PRIMARY_630": "#21382F",
+"PRIMARY_645": "#1A3028",
+"PRIMARY_660": "#162922",
+"PRIMARY_700": "#10221C",
+"PRIMARY_730": "#0B1814",
+"PRIMARY_760": "#07110D",
+"PRIMARY_800": "#050907",
+"WHITE_500": "#FFFFFF",
+"WHITE_630": "#F4F7F2",
+"BRAND_100": "#DAF1DE",
+"BRAND_200": "#C4E3CB",
+"BRAND_260": "#A9D0B3",
+"BRAND_300": "#8EB89A",
+"BRAND_330": "#82A98B",
+"BRAND_345": "#769C7F",
+"BRAND_360": "#6B8F74",
+"BRAND_400": "#5F8A68",
+"BRAND_430": "#507364",
+"BRAND_460": "#426457",
+"BRAND_500": "#355245",
+"BRAND_530": "#28443A",
+"BRAND_560": "#21382F",
+"BRAND_600": "#1A3028",
+"GREEN_300": "#73C97A",
+"GREEN_360": "#73C97A",
+"GREEN_400": "#68BA6F",
+"GREEN_500": "#5CA861",
+"RED_400": "#8A3E3E",
+"RED_500": "#763535",
+"YELLOW_300": "#C6B36C",
+"YELLOW_400": "#D4C27C",
+"ROLE_DEFAULT": "#D7DED5"
+},
+"compatibility": {
+"rain": true,
+"revenge": true,
+"vendetta": true,
+"minimumSpec": 2,
+"themeVersion": "1.0",
+"supports": {
+"animatedBackground": true,
+"glassmorphism": true,
+"replyHighlights": true,
+"mentionHighlights": true,
+"highContrastMode": true
+}
+},
+"performance": {
+"gpuFriendly": true,
+"optimizedGifPlayback": true,
+"optimizedBlur": true,
+"recommendedBackgroundFPS": 30,
+"lowPowerMode": true
+},
+"quality": {
+"highContrast": true,
+"glassmorphism": true,
+"premiumLayering": true,
+"smoothAnimations": true,
+"antiGlareTypography": true
+},
+"extensions": {
+"replyLineColor": "#82A98B",
+"mentionLineColor": "#E3E5D8",
+"threadSpineColor": "#5D786C",
+"pingColor": "#355245",
+"mentionHighlight": "#E3E5D822",
+"mentionBorder": "#E3E5D8",
+"unreadIndicator": "#5F8A68",
+"newMessagesBar": "#5F8A68",
+"newMessagesBarText": "#10221C",
+"reactionAccent": "#82A98B",
+"reactionHover": "#A6C9AE",
+"profileAccent": "#DAF1DE",
+"voiceConnected": "#82A98B",
+"streamingAccent": "#73C97A",
+"callAccent": "#82A98B",
+"linkColor": "#9BC7A4",
+"selectionColor": "#426457",
+"hoverColor": "#355245",
+"pressedColor": "#28443A",
+"focusRing": "#82A98B",
+"switchEnabled": "#82A98B",
+"sliderActive": "#82A98B",
+"checkboxActive": "#82A98B",
+"radioActive": "#82A98B",
+"badgeColor": "#355245",
+"modalOverlay": "#10221CCC",
+"glassOpacity": 0.70,
+"glassBlur": 2,
+"borderRadius": 20
+},
+"developer": {
+"project": "Dark Forest",
+"codename": "Evergreen Mist",
+"status": "Stable",
+"engineeredFor": [
+"Rain",
+"Revenge",
+"Vendetta"
+]
+},
+"release": {
+"channel": "Stable",
+"build": "1.0.0",
+"edition": "Dark Forest",
+"notes": [
+"Misty forest inspired interface",
+"Animated background support",
+"Subtle glassmorphism",
+"Premium readability",
+"Forest green interaction system",
+"Low blur for GIF clarity"
+]
+}
+}
+
